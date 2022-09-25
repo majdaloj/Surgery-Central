@@ -59,4 +59,4 @@ Project is created with:
 * python
 	
 ## Credit
-Project completed for SheHacks 2021 by Salwa Abdalla, Majda Lojpur, and Faizah Sayyid.ReadME written by Salwa Abdalla.
+Project completed for SheHacks 2021 by Salwa Abdalla, Majda Lojpur, and Faizah Sayyid. ReadME written by Salwa Abdalla.
